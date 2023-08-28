@@ -1,0 +1,11 @@
+# Ignore compiled output, logs, and databases
+*.db
+*.log
+
+/target/
+/bin/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
